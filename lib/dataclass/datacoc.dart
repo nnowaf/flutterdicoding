@@ -17,10 +17,10 @@ class ClashOfClansData {
   });
 }
 
-var DataCocList = [
+var dataCocList = [
   ClashOfClansData(
     nama: 'Barbarian', 
-    image: 'images/Barbarian Image.png', 
+    image: 'images/barbarian_image.png', 
     type: 'Melee', 
     dpsWidth: 55.0, 
     elixirWidth: 77.0, 
@@ -29,7 +29,7 @@ var DataCocList = [
 
   ClashOfClansData(
     nama: 'Ballon', 
-    image: 'images/Ballon Image.png', 
+    image: 'images/ballon_image.png', 
     type: 'Ground', 
     dpsWidth: 71.0, 
     elixirWidth: 121.0, 
@@ -38,7 +38,7 @@ var DataCocList = [
 
   ClashOfClansData(
     nama: 'Baby Dragon', 
-    image: 'images/Baby Dragon Image.png', 
+    image: 'images/babydragon_image.png', 
     type: 'Aerial', 
     dpsWidth: 79.0, 
     elixirWidth: 107.0, 
@@ -47,7 +47,7 @@ var DataCocList = [
 
   ClashOfClansData(
     nama: 'Dragon', 
-    image: 'images/Dragon Image.png', 
+    image: 'images/dragon_image.png', 
     type: 'Aerial', 
     dpsWidth: 140.0, 
     elixirWidth: 128.0, 
